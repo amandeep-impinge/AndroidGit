@@ -9,7 +9,7 @@ public class AndroidGitActivity extends Activity {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);   
-        
         //First comment by Amandeep
+        // this is added by gaurav 
     }
 }
