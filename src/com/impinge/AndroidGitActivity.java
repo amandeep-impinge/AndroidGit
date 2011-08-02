@@ -10,6 +10,6 @@ public class AndroidGitActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);   
         //First comment by Amandeep
-        // this is added by gaurav 
+        // this is added by gaurav   
     }
 }
